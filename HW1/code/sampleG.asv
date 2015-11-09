@@ -1,0 +1,5 @@
+function g=sampleG(z,t)
+    u=unifrnd(0,1);
+    alpha=exp(-K*t)/(exp(-K*t)+4*pi*K*F(t,)*exp(-z));
+    if u
+end
